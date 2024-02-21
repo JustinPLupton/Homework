@@ -4,7 +4,7 @@ title:
 permalink: /HW2/
 ---   
 
-**HW2**  
+## HW2
 
 This is a heading
 
