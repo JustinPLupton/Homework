@@ -29,7 +29,7 @@ This is a paragraph
 
 ## Table
 |  Command    | Description   | 
-|------------  |------------  |
+| ------------  | ------------  |
 | Git add | Stage changes for commit  | 
 | Git commit | Record changes to the repository  | 
 | Git push | Upload local repository content to a remote repository  |
