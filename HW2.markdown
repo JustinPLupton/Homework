@@ -4,7 +4,7 @@ title:
 permalink: /HW2/
 ---   
 
-## **HW2**  
+**HW2**  
 
 This is a heading
 
@@ -30,6 +30,7 @@ This is a paragraph
 4. item 3a
 
 ## Table
+
 |  Command    | Description   | 
 |------------  |------------  |
 | Git add | Stage changes for commit  | 
